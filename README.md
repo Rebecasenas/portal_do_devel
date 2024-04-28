@@ -38,6 +38,11 @@ Ajusta o layout dos blocos.
 -HTML5
 -CSS3
 
+## Como utilizar
+Para utilizar este projeto, basta clonar ou baixar o repositório e abrir o arquivo 'index.html' em um navagador web.
+
+'''bash git clone https://github.com/Rebecasenas/portal_do_devel.git '''
+
 ## Autor
 Este projeto foi desenvolvido por Rebeca Sena dos Santos (https://github.com/Rebecasenas).
 
